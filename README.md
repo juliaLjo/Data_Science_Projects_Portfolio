@@ -8,7 +8,7 @@ This repository is mainly for projects I have done under Yandex Praktikum in 202
 
 The Yandex Praktikum Data Science program prepares me for a career as a Data Scientist, helping me learn how to cleanse and organize data, analyze it, test hypotheses, find patterns and relationships, select features, build forecasting and classification models, choose a suitable algorithm, select hyperparameters for models, work with images, text and flat tables and etc.
 
-## Technology stack 
+## Technology stack
 Programming language: Python (ver. 3)<br>
 IDE: Jupyter Notebook<br>
 Libraries: Numpy, Pandas, Matplotlib, Seaborn, PostgreSQL, Scikit learn, LightGBM, Catboost, Keras, PyTorch, Pymystem3, Collections<br>
@@ -18,9 +18,9 @@ Libraries: Numpy, Pandas, Matplotlib, Seaborn, PostgreSQL, Scikit learn, LightGB
 
 ## Projects
 
-| Project name | Description | Libraries | Status | 
+| Project name | Description | Libraries | Status |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
-| [Аnalysis of mobile tariffs](mobile_tariffs_analysis) | Analysis of 2 mobile tariffs in order to identify the most profitable | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* | Done |
+| [Аnalysis of mobile tariffs profitability](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/Cell_phone_plan_profitability.ipynb) | Analyzed profitability of 2 mobile plans in order to adjust advertising budget | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* | Done |
 | [Video Games Sales Analytics](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/Video_games_sales_analytics.ipynb) | Analyzed 36 years worth of data of global video games sales and identified patterns that determined potential profitability of a gaming platform, created a user profile for each region. | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* | Done |
 | [Bank customer churn prediction](customer_churn_ml) | Develop an ML model that predicts the churn of bank customers | *pandas*, *numpy*, *scikit learn*, *matplotlib*, *seaborn* | Done |
 | [Oil production](oil_production_ml) | Develop an ML model that will help determine the region where oil production will bring the greatest profit | *pandas*, *numpy*, *scikit learn* | Done |
