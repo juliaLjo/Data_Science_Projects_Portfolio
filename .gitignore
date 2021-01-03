@@ -9,6 +9,9 @@ __pycache__/
 # CSV-files
 *.csv
 *.pdf
+*.JPEG
+*.png
+/SQL_project_info
 
 # C extensions
 *.so
