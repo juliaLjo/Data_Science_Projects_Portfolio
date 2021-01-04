@@ -20,7 +20,7 @@ Libraries: Numpy, Pandas, Matplotlib, Seaborn, PostgreSQL, Scikit learn, LightGB
 
 | Project name | Description | Libraries | Status |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
-| [Statistical data analysis: Megaline plans profitability]() | Analyzed profitability of 2 mobile plans of the Megaline telecom operator for 2018 year in order to adjust advertising budget | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *missingno* | Done |
+| [Statistical data analysis: Megaline telecom plans profitability](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/Statistical_data_analysis_Megaline.ipynb) | Analyzed profitability of the 2 mobile plans of the Megaline telecom operator for 2018 year  to adjust advertising budget | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *missingno* | Done |
 | [Integrated analytics project: video games online store Ice]() | Analyzed 36 years worth of data of global video games sales and identified patterns that determined potential profitability of a gaming platform, created a user profile for each region. | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn*, *missingno* | Done |
 | [Bank customer churn prediction](customer_churn_ml) | Develop an ML model that predicts the churn of bank customers | *pandas*, *numpy*, *scikit learn*, *matplotlib*, *seaborn* | Done |
 | [Oil production](oil_production_ml) | Develop an ML model that will help determine the region where oil production will bring the greatest profit | *pandas*, *numpy*, *scikit learn* | Done |
