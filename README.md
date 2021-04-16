@@ -14,7 +14,7 @@ Libraries: Numpy, Pandas, Matplotlib, Seaborn, PostgreSQL, Scikit learn, LightGB
 
 | Project name | Description | Libraries | Status |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
-| [Data Obfuscation: Linear Algebra concepts](link to nb_viewer) | A data transformation algorithm developed to protect client's privacy and prooved with the Linear Regression model | *pandas*, *numpy*, *scikit learn* | Done |
+| [Data Obfuscation: Linear Algebra concepts](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/Data_obfuscation.ipynb) | A data transformation algorithm developed to protect client's privacy and prooved with the Linear Regression model | *pandas*, *numpy*, *scikit learn* | Done |
 | [Gold recovery rate prediction](link to nb_viewer) | Develop a prototype of a ML algorithm that predicts the recovery rate of gold from a gold ore | *pandas*, *numpy*, *scikit learn*, *matplotlib*, *seaborn* | Done |
 | [Best oil field selection: risk and profit calculation for each region](link to nb_viewer) | Several ML models were tested to choose an oil field with the highest profit margin. The bootstrap technique was used to find the distribution of profit| *pandas*, *numpy*, *scikit learn*, *SciPy*, *matplotlib* | Done |
 | [Intro to Machine Learning: Megaline telecom newer plans to legacy users ](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/Intro_to_ML.ipynb) | Developed a ML model to recommend one of the newer Megaline telecom plans to legacy plans users | *pandas*, *sklearn*, *sys*, *warnings* | Done |
