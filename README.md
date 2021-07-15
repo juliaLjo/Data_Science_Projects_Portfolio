@@ -1,13 +1,13 @@
 # Data_Science_Projects_Portfolio
 Data science projects completed through professional education program
 
-### Yandex Praktikum: https://practicum.yandex.com/profile/data-scientist/
+### Yandex Practikum: https://practicum.yandex.com/profile/data-scientist/
 
 ## Projects
 
 | Project name | Description | Technology Stack | Comments |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
-| [Computer vision for customer photos](link is coming) | Build an model that determines the approximate age of a person from a photograph | *keras*, *ternsorflow*, *seaborn*, *matplotlib*, *pandas* | ImageDataGenerator, ResNet50, Sequential, GlobalAveragePooling2D, Dense, Dropout, Flatten, Adam |
+| [Computer vision for customer photos](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/Computer_vision.ipynb) | Build an model that determines the approximate age of a person from a photograph | *keras*, *ternsorflow*, *seaborn*, *matplotlib*, *pandas* | ImageDataGenerator, ResNet50, Sequential, GlobalAveragePooling2D, Dense, Dropout, Flatten, Adam |
 | [Toxic comments classification](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/ML_for_texts.ipynb) | Train a model to detect negative reviews | *pandas*, *numpy*, *scikit learn*, *torch*, *tqdm*, *sys*, *os*, *time*, *transformers*, *nltk*, *matplotlib*, *seaborn* | word_tokenize, WordNetLemmatize, stopwords, CountVectorizer, TfidfVectorizer, torch, transformers, spacy, LogisticRegression, RandomForestClassifier, SGDClassifier, KNeighborsClassifier |
 | [Taxi orders prediction](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/Taxi_Orders_Prediction.ipynb) | Develop an ML model for predicting the number of taxi orders for the next hour with RMSE no more than 48 | *pandas*, *numpy*, *scikit learn*, *lightgbm*, *statsmodels*, *matplotlib*| train_test_split, TimeSeriesSplit, seasonal_decompose, GridSearchCV, MSE, MAE, LinearRegression, RandomForestRegressor, KNeighborsRegressor, CatBoostRegressor, LGBMRegressor |
 | [Vehicle Price Prediction](https://nbviewer.jupyter.org/github/juliaLjo/Data_Science_Projects_Portfolio/blob/main/Vehicle_Price_Prediction.ipynb) | Develop an ML model to determine the value of a car | *pandas*, *numpy*, *scikit learn*, *lightgbm*, *catboost*, *xgboost* | train_test_split, GridSearchCV, MSE, CatBoostRegressor, LGBMRegressor, xgb, LabelEncoder |
