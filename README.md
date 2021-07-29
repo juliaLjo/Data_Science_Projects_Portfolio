@@ -1,7 +1,8 @@
-# Data_Science_Projects_Portfolio
+# Data Science Projects Portfolio
 
 
 ## Projects
+These projects were completed through professional educational program https://practicum.yandex.com/
 
 | Project name | Description | Technology Stack | Comments |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
