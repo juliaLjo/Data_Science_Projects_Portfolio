@@ -1,7 +1,5 @@
 # Data_Science_Projects_Portfolio
-Data science projects completed through professional education program
 
-### Yandex Practikum: https://practicum.yandex.com/profile/data-scientist/
 
 ## Projects
 
